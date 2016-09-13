@@ -10,4 +10,4 @@ Pour ce faire :
 * Forkez ce repository 
 * modifiez/annotez/enrichissez le contenu 
 * soumettez une pull request.
-* test cette request 
+* test cette request.
